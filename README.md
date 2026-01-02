@@ -172,6 +172,8 @@ Featuring 5 executive-level GitHub projects that demonstrate enterprise architec
 
 ---
 
+
+
 ## 🎯 Key Competencies
 
 ### AI & Machine Learning Leadership
